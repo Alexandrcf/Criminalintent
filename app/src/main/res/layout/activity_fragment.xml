@@ -7,6 +7,4 @@
     android:layout_height="match_parent"
     tools:context=".CrimeActivity"
     android:id="@+id/fragment_container">
-
-
 </FrameLayout>
